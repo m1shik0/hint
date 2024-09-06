@@ -13,7 +13,7 @@
     "@hint/utils-fs": "^1.0.15",
     "@hint/utils-string": "^1.0.13",
     "chalk": "^4.1.2",
-    "configstore": "^5.0.1",
+    "configstore": "^6.0.0",
     "content-type": "^1.0.4",
     "eventemitter2": "^6.4.5",
     "file-type": "^16.5.4",
@@ -21,7 +21,7 @@
     "is-svg": "^4.3.2",
     "is-wsl": "^2.2.0",
     "lodash": "^4.17.21",
-    "npm-registry-fetch": "^13.3.0",
+    "npm-registry-fetch": "^15.0.0",
     "semver": "^7.3.5"
   },
   "description": "hint tools",
