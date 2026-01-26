@@ -17,7 +17,7 @@
     "@hint/utils-types": "^1.2.0",
     "ejs": "^3.1.8",
     "fs-extra": "^10.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@types/ejs": "^3.1.1",
